@@ -1,0 +1,7 @@
+{
+    "ServeNodes": [
+        ":1080"
+    ],
+    "ChainNodes": [
+    ]
+}
